@@ -7,7 +7,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-This project implements a **serial AES-128 encryption core** optimized for TinyTapeout's 1x1 tile constraint (~1000 logic gates). The design uses the Advanced Encryption Standard (AES) algorithm with 128-bit keys and blocks, processing data one byte at a time to minimize gate count while maintaining cryptographic security[28][13].
+This project implements a **serial AES-128 encryption core** optimized for TinyTapeout's 1x1 tile constraint (~1000 logic gates). The design uses the Advanced Encryption Standard (AES) algorithm with 128-bit keys and blocks, processing data one byte at a time to minimize gate count while maintaining cryptographic security.
 
 ### AES Algorithm Implementation
 
